@@ -1,6 +1,6 @@
-# Blog-em Ipsum
+# React Query app
 
-### A React App for the Udemy course "React Query: Server State Management for React"
+### A React App with react query basic features
 
 ## Installation
 
